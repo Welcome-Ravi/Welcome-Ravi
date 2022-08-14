@@ -2,7 +2,8 @@ package in.ashokit;
 
 public class Demo {
 	
-	public void m1() {
+	public static void(String args[]) {
+		system.out.println("Welcome to GitHub")
 		
 		//logic
 	}
